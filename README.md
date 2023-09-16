@@ -71,16 +71,20 @@ Z poziomu Strony Głównej klikając w link "Dodaj gracza" zostajemy przeniesien
 
 # Task 2
 
-## **Subtask1**
+## **Subtask 1**
 
 [Link do Subtask1.](https://docs.google.com/spreadsheets/d/1T3_R22yGdqxJsbpXPG28u_gK6QOLF6qPWk_xrSxX5rE/edit?usp=drive_link)
 
 
-## **Subtask2**
+## **Subtask 2**
 
 [Link do Subtask2.](https://docs.google.com/document/d/106BkGkVR6ybQhSErXewnJ49jk-t8r5nKzeorQRtviko/edit?usp=drive_link)
 
 
-## **Subtask3**
+## **Subtask 3**
 
 Przypadki testowe pisane są po to, żeby tester mógł bez problemu, krok po kroku przetestować daną funkcjonalność i docelowo, aby wyeliminować wszelkie defekty/błędy na stronie/w aplikacji.
+
+## **Subtask 4**
+
+[Link do Subtask4](https://docs.google.com/spreadsheets/d/15VfjP6AsxuIDrHiARE14TpvZYTjIqo8LWIOzHe5AiLE/edit?usp=sharing)
