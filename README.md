@@ -65,3 +65,10 @@ Z poziomu Strony Głównej klikając w link "Dodaj gracza" zostajemy przeniesien
   **BUG**
 
   - kliknąwszy w "dodaj mecz" jesteśmy przekierowani do zakładki "Mecze" danego gracza
+ 
+
+# Task 2
+
+## **Subtask3**
+
+Przypadki testowe pisane są po to, żeby tester mógł bez problemu, krok po kroku przetestować daną funkcjonalność.
