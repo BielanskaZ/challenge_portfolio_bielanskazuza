@@ -88,3 +88,16 @@ Przypadki testowe pisane są po to, żeby tester mógł bez problemu, krok po kr
 ## **Subtask 4**
 
 [Link do Subtask4](https://docs.google.com/spreadsheets/d/15VfjP6AsxuIDrHiARE14TpvZYTjIqo8LWIOzHe5AiLE/edit?usp=sharing)
+
+
+# Task 3
+
+## ** Subtask 2**
+
+[Odświeżone test case'y](https://docs.google.com/document/d/106BkGkVR6ybQhSErXewnJ49jk-t8r5nKzeorQRtviko/edit?usp=drive_link)
+
+## **Subtask 3**
+
+[Raport błędów](https://docs.google.com/document/d/1tA4LZHMmo20s-RcLRZ7eAZTM_g4U8caUtoYuNz30HnU/edit?usp=drive_link)
+
+
