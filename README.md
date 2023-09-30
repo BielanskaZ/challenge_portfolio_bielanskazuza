@@ -1,4 +1,4 @@
-# Task1 
+# Task 1 
 
 Link do [Folderu projektowego](https://drive.google.com/drive/folders/1c4sKS66uCayTp5wvnn-Ec3eMAT5dYItf?usp=drive_link)
 
@@ -99,5 +99,28 @@ Przypadki testowe pisane są po to, żeby tester mógł bez problemu, krok po kr
 ## **Subtask 3**
 
 [Raport błędów](https://docs.google.com/document/d/1tA4LZHMmo20s-RcLRZ7eAZTM_g4U8caUtoYuNz30HnU/edit?usp=drive_link)
+
+# Task 4
+
+## **Subtask 1,2**
+
+[Testy eksploracyjne + raportowanie błędów](https://docs.google.com/spreadsheets/d/1Hc_evp5BGB846c2DbLYQv77qv65HhbuXkujkkrkrQeA/edit?usp=drive_link)
+
+## **Subtask 3**
+
+Testowana wyżej aplikacja OLX.com służy do sprzedaży oraz kupna rzeczy na skalę prywatną, a także do wystawiania ogłoszeń transakcyjnych takich jak:
+
+- adopcja zwierząt
+
+- wynajem nieruchomości
+
+- oddanie rzeczy za darmo
+
+  Końcowym użytkownikiem aplikacji ma być dosłownie każdy. Osoba, która chce coś kupić, sprzedać, oddać. Osoba, która nie chce obowiązać się umową kupna/sprzedaży i osoba, która musi obowiązać się takową umową. Wszystko w granicach dozwolonego prawa.
+
+  Aplikacja natomiast jest nie do końca user friendly. Tak, ma nawigację położoną nisko, dzięki czemu można łatwo dodać ogłoszenie, wrócić na stronę główną, wejść w zakładkę polubionych. Łatwo też można odnaleźć kafelki prowadzące do kategorii ogłoszeń, a także wybrać sortowanie ustawiając konkretne filtry. Jest jednak kilka mankamentów, które można by było poprawić tak, aby użytkownik nie był wprowadzany w błąd, np. informacja o ZAlogowaniu przy próbie WYlogowania, sprawniejsze ładowanie strony, bug typu pojawienie się niebieskiej ikony przy ikonie dzwoneczka, prowadzącej do powiadomień, a w powiadomieniach brak żadnych. Jest też kwestia sekcji "Profil kandydata", która jest dostępna tylko dla zalogowanych użytkowników, jednak kiedy klikamy w zakładki "Nowa praca", "Moje aplikacje", bez żadnego powiadomienia jesteśmy przenoszeni na aplikację internetową do ponownego logowania, co może zaniepokoić użytkownika.
+  W zakładce "Praca" przydałoby się wprowadzić możliwość wybrania widełek płacowych do filtrowania ogłoszeń.
+
+  Testowanie aplikacji internetowej jest dla mnie w odczuciu łatwiejsze i przebiega szybciej, gdyż w aplikacji natywnej jest sporo nagromadzonej treści na małej przestrzeni ekranu. Przynajmniej w przypadku testowanych przeze mnie wyżej aplikacji. Było ich niewiele, dlatego ciężko jest wyciągnąć wspólne cechy i uogólnić, ale wydaje mi się, że aplikacja natywna jest jednak cięższa do testowania choćby dlatego, że nie da się za bardzo sprawdzić, czy coś nie działa jedynie ze względu na system operacyjny, czy jest w niej szerszy problem, dopóki nie ma się urządzeń z różnymi systemami operacyjnymi. 
 
 
