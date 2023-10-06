@@ -124,3 +124,15 @@ Testowana wyżej aplikacja OLX.com służy do sprzedaży oraz kupna rzeczy na sk
   Testowanie aplikacji internetowej jest dla mnie w odczuciu łatwiejsze i przebiega szybciej, gdyż w aplikacji natywnej jest sporo nagromadzonej treści na małej przestrzeni ekranu. Przynajmniej w przypadku testowanych przeze mnie wyżej aplikacji. Było ich niewiele, dlatego ciężko jest wyciągnąć wspólne cechy i uogólnić, ale wydaje mi się, że aplikacja natywna jest jednak cięższa do testowania choćby dlatego, że nie da się za bardzo sprawdzić, czy coś nie działa jedynie ze względu na system operacyjny, czy jest w niej szerszy problem, dopóki nie ma się urządzeń z różnymi systemami operacyjnymi. 
 
 
+# Task 5
+
+## **Subtask 1**
+
+SQL - operatory/zapytania:
+
+- SELECT * FROM (nazwa schematu{.nazwa tabeli})
+- wsad = więcej, niż jedno zapytanie
+- GO pod pierwszym zapytaniem = oddziela dwa zapytania we wsadzie --> pozwala na sprawniejsze wykonanie skryptu
+- [] Nawiasy kwadratowe po SELECT * FROM: kiedy używamy spacji w nazwie shematu
+- SELECT (nazwy kolumn), FROM (nazwa tabeli)
+- Zmienianie nazw danych kolumn: AS. Np.: SELECT (obecna nazwa) AS (przyszła nazwa)
