@@ -142,3 +142,4 @@ Link do [Folderu projektowego](https://drive.google.com/drive/folders/1c4sKS66uC
 
 ## **Subtask 2-3**
 ![1](https://drive.google.com/file/d/1P7YeAJP9PT5-8SBTsl0Qb-pp5gMIzSCz/view?usp=drive_link)
+![2](https://drive.google.com/file/d/1mwWnzxkUwAqEBYa6CMLPcOlKHXphdWc-/view?usp=drive_link)
