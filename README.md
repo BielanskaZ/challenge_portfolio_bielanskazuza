@@ -141,5 +141,10 @@ Link do [Folderu projektowego](https://drive.google.com/drive/folders/1c4sKS66uC
 *- filtrowanie danej wartości z tabeli: SELECT (nazwa kolumny/tabeli) FROM (nazwa kolumny/tabeli) WHERE (wpisujemy nazwy kolumn, które mają spełniać warunki filtrowania, gdzie używamy operatorów '=', '<', '>', '<>' lub '!=' 'OR' lub 'IN (kilka wartości)' lub 'AND', jeżeli chcemy filtrować więcej, niż zawartość jednej kolumny)*
 
 ## **Subtask 2-3**
+
 ![1](https://drive.google.com/file/d/1P7YeAJP9PT5-8SBTsl0Qb-pp5gMIzSCz/view?usp=drive_link)
+
 ![2](https://drive.google.com/file/d/1mwWnzxkUwAqEBYa6CMLPcOlKHXphdWc-/view?usp=drive_link)
+![Zrzut ekranu 2023-10-7 o 09 31 38](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/89875212-357b-4de4-9be7-89e495d03ddb)
+
+
