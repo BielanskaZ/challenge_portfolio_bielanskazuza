@@ -130,21 +130,21 @@ Link do [Folderu projektowego](https://drive.google.com/drive/folders/1c4sKS66uC
 
 *SQL - operatory/zapytania:*
 
-*- SELECT * FROM (nazwa schematu{.nazwa tabeli})*
+*- 'SELECT * FROM' (nazwa schematu{.nazwa tabeli})*
 
 *- wsad = więcej, niż jedno zapytanie*
 
-*- GO pod pierwszym zapytaniem = oddziela dwa zapytania we wsadzie --> pozwala na sprawniejsze wykonanie skryptu*
+*- 'GO' pod pierwszym zapytaniem = oddziela dwa zapytania we wsadzie --> pozwala na sprawniejsze wykonanie skryptu*
 
-*- [] Nawiasy kwadratowe po SELECT * FROM: kiedy używamy spacji w nazwie shematu*
+*- [] Nawiasy kwadratowe po 'SELECT * FROM': kiedy używamy spacji w nazwie shematu*
 
-*- SELECT (nazwy kolumn), FROM (nazwa tabeli)*
+*- 'SELECT (nazwy kolumn), FROM (nazwa tabeli)'*
 
-*- Zmienianie nazw danych kolumn: AS. Np.: SELECT (obecna nazwa) AS (przyszła nazwa)*
+*- Zmienianie nazw danych kolumn: 'AS'. Np.: 'SELECT (obecna nazwa) AS (przyszła nazwa)'*
 
-*- ORDER BY = sortowanie rosnąco*
+*- 'ORDER BY' = sortowanie rosnąco*
 
-*-ORDER BY (nazwa kolumny) DESC = sortowanie malejąco*
+*- 'ORDER BY (nazwa kolumny) DESC' = sortowanie malejąco*
 
 *- filtrowanie danej wartości z tabeli: SELECT (nazwa kolumny/tabeli) FROM (nazwa kolumny/tabeli) WHERE (wpisujemy nazwy kolumn, które mają spełniać warunki filtrowania, gdzie używamy operatorów '=', '<', '>', '<>' lub '!=' 'OR' lub 'IN (kilka wartości)' lub 'AND', jeżeli chcemy filtrować więcej, niż zawartość jednej kolumny)*
 
