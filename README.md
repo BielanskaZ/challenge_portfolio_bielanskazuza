@@ -141,10 +141,35 @@ Link do [Folderu projektowego](https://drive.google.com/drive/folders/1c4sKS66uC
 *- filtrowanie danej wartości z tabeli: SELECT (nazwa kolumny/tabeli) FROM (nazwa kolumny/tabeli) WHERE (wpisujemy nazwy kolumn, które mają spełniać warunki filtrowania, gdzie używamy operatorów '=', '<', '>', '<>' lub '!=' 'OR' lub 'IN (kilka wartości)' lub 'AND', jeżeli chcemy filtrować więcej, niż zawartość jednej kolumny)*
 
 ## **Subtask 2-3**
+![Zrzut ekranu 2023-10-7 o 09 42 45](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/9a3c78ce-203d-4d5e-b1e2-a807c925a447)
 
-![1](https://drive.google.com/file/d/1P7YeAJP9PT5-8SBTsl0Qb-pp5gMIzSCz/view?usp=drive_link)
 
-![2](https://drive.google.com/file/d/1mwWnzxkUwAqEBYa6CMLPcOlKHXphdWc-/view?usp=drive_link)
 ![Zrzut ekranu 2023-10-7 o 09 31 38](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/89875212-357b-4de4-9be7-89e495d03ddb)
+
+![Zrzut ekranu 2023-10-7 o 09 55 27](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/931d34a7-848d-411f-a831-c2012eb800f5)
+
+![Zrzut ekranu 2023-10-7 o 09 59 02](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/d75c15fe-cb5d-4d7a-9956-bf77839c9bec)
+
+![Zrzut ekranu 2023-10-7 o 10 01 37](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/79af2ca5-f056-45ca-9508-cd23c83ec3a8)
+
+![Zrzut ekranu 2023-10-7 o 10 02 21](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/febd6541-e738-49c3-9ffe-4829c7101bfd)
+
+![Zrzut ekranu 2023-10-7 o 10 22 48](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/4f46ceb3-8b40-4e2a-872c-c1a7d8e12364)
+
+![Zrzut ekranu 2023-10-7 o 10 29 38](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/ac2d1dff-f670-41ba-b4d4-874317d6ff78)
+
+![Zrzut ekranu 2023-10-7 o 10 36 25](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/49af89ef-8ddf-4626-b8b4-6748c050f8d0)
+
+![Zrzut ekranu 2023-10-7 o 10 38 06](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/f87fed6e-22fb-4caa-b4bc-9643420e2a8d)
+
+![Zrzut ekranu 2023-10-7 o 10 40 08](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/083a4a9b-504b-475f-b21f-b29dad325c8c)
+
+![Zrzut ekranu 2023-10-7 o 10 46 46](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/bdb4b772-80da-4e7e-b62f-c9e89f905c4d)
+
+
+
+
+
+
 
 
