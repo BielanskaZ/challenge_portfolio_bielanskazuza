@@ -124,7 +124,7 @@ Link do [Folderu projektowego](https://drive.google.com/drive/folders/1c4sKS66uC
  *Testowanie aplikacji internetowej jest dla mnie w odczuciu łatwiejsze i przebiega szybciej, gdyż w aplikacji natywnej jest sporo nagromadzonej treści na małej przestrzeni ekranu. Przynajmniej w przypadku testowanych przeze mnie wyżej aplikacji. Było ich niewiele, dlatego ciężko jest wyciągnąć wspólne cechy i uogólnić, ale wydaje mi się, że aplikacja natywna jest jednak cięższa do testowania choćby dlatego, że nie da się za bardzo sprawdzić, czy coś nie działa jedynie ze względu na system operacyjny, czy jest w niej szerszy problem, dopóki nie ma się urządzeń z różnymi systemami operacyjnymi.*
 
 
-# Task 5
+# Task 5/6
 
 ## **Subtask 1**
 
@@ -174,10 +174,28 @@ Link do [Folderu projektowego](https://drive.google.com/drive/folders/1c4sKS66uC
 
 ![Zrzut ekranu 2023-10-7 o 10 46 46](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/bdb4b772-80da-4e7e-b62f-c9e89f905c4d)
 
+![Zrzut ekranu 2023-10-13 o 13 43 17](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/fb11162b-c11c-47ee-a9e1-bdce418e5443)
+
+![Zrzut ekranu 2023-10-13 o 13 45 27](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/b569158e-42d8-4c79-8231-d181246b1895)
 
 
+![Zrzut ekranu 2023-10-13 o 13 49 31](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/9cca5949-ea17-49f7-890e-87577f2c1cdb)
+
+![Zrzut ekranu 2023-10-13 o 13 50 18](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/428528a6-7617-4556-b578-bb01626973a6)
 
 
+![Zrzut ekranu 2023-10-13 o 14 11 08](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/b1b741c4-8a51-4fff-b87b-d5526cc8ba9d)
 
+![Zrzut ekranu 2023-10-13 o 19 20 05](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/469144d0-036b-421d-98cd-f8c53f01e236)
 
+![Zrzut ekranu 2023-10-13 o 19 28 41](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/dcdc9721-fb80-4359-9a9e-5a00d8f7ca0d)
 
+![Zrzut ekranu 2023-10-13 o 19 30 55](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/cb468613-87c2-4498-9895-48a638173bde)
+
+![Zrzut ekranu 2023-10-13 o 19 34 55](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/851a803b-7fa2-4200-a872-c252c257dbd9)
+
+![Zrzut ekranu 2023-10-13 o 19 35 43](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/597d4f26-6324-4d25-9011-147f8a8734bc)
+
+![Zrzut ekranu 2023-10-13 o 19 46 26](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/7e3b7439-906c-40f6-ba20-75d6a7b2f738)
+
+![Zrzut ekranu 2023-10-13 o 19 46 39](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/8ddde11b-0b4f-46ed-be70-2d910c6ade86)
