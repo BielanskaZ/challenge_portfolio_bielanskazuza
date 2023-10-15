@@ -199,3 +199,6 @@ Link do [Folderu projektowego](https://drive.google.com/drive/folders/1c4sKS66uC
 ![Zrzut ekranu 2023-10-13 o 19 46 26](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/7e3b7439-906c-40f6-ba20-75d6a7b2f738)
 
 ![Zrzut ekranu 2023-10-13 o 19 46 39](https://github.com/BielanskaZ/challenge_portfolio_bielanskazuza/assets/143724852/8ddde11b-0b4f-46ed-be70-2d910c6ade86)
+
+
+Wynik testu: 13/15
